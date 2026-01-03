@@ -39,8 +39,9 @@ The dataset is derived from **Yahoo Finance** and contains the following columns
 - `target` – Binary label indicating next-day price movement  
 
 ### Files Included
-- `train.csv` – Training data with target column  
-- `test.csv` – Test data without target  
+- `StockTrends.zip` - All files
+- `train.xlsx` – Training data with target column  
+- `test.xlsx` – Test data without target  
 - `sample_submission.csv` – Example submission format  
 
 
